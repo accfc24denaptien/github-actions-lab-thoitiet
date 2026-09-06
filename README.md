@@ -2,16 +2,16 @@
 
 ## Da Lat
 
-🌡 Temperature: 20.9 °C
+🌡 Temperature: 22.7 °C
 
-💧 Humidity: 80 %
+💧 Humidity: 71 %
 
-🌬 Wind: 16.4 km/h
+🌬 Wind: 17.2 km/h
 
 ---
 
 Updated
 
-2026-09-05 05:22 UTC
+2026-09-06 05:38 UTC
 
 Generated automatically by GitHub Actions.
